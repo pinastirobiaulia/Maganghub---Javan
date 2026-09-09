@@ -17,6 +17,4 @@
 - Chrome
 
 ## Test Result
-## Test Result
-
 ![Test Result](image/Screenshot.png)
